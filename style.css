@@ -33,6 +33,13 @@
     text-align: center;
     
 }
+.nav .logo img{
+    max-width: 100%;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 10vh;
+}
 
 .nav .menu{
     width: 40%;
